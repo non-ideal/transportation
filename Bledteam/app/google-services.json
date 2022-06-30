@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736478174423",
+    "project_id": "blindstudio-d8b4b",
+    "storage_bucket": "blindstudio-d8b4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736478174423:android:97d4e85945b52c6741a492",
+        "android_client_info": {
+          "package_name": "com.kau.led"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736478174423-qc2a2blqn60knt9nqj509gb6lgjdal3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEIIwh3bsKX-9q_m6cslHL1icNOP8VzAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736478174423-qc2a2blqn60knt9nqj509gb6lgjdal3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
